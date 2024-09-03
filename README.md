@@ -24,3 +24,6 @@ Error Handling:
 
 Handles invalid numeric inputs and division by zero gracefully.
 You can copy and run this program in any Python environment. It will interactively guide the user through performing basic calculations.
+
+![image](https://github.com/user-attachments/assets/2f387350-cbea-4ab0-8871-595b09c0d857)
+
